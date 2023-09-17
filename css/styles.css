@@ -601,8 +601,8 @@ h3,
 .h3 {
     letter-spacing: -1px;
     font-weight: normal;
-    font-family: "colfax-bold", sans-serif;
-    font-size: 16px;
+    font-family: "colfax-light", sans-serif;
+    font-size: 24px;
     color: #000000;
 }
 
@@ -1808,8 +1808,8 @@ h3,
 .h3 {
     letter-spacing: -1px;
     font-weight: normal;
-    font-family: "colfax-bold", sans-serif;
-    font-size: 16px;
+    /* font-family: "colfax-bold", sans-serif; */
+    /* font-size: 16px; */
     color: #000000;
 }
 
